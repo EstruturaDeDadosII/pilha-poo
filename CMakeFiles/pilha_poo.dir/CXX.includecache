@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/thiago/CLionProjects/pilha-poo/main.cpp
+iostream
+-
+deque
+-
+pilha.h
+C:/Users/thiago/CLionProjects/pilha-poo/pilha.h
+
+C:/Users/thiago/CLionProjects/pilha-poo/pilha.cpp
+pilha.h
+C:/Users/thiago/CLionProjects/pilha-poo/pilha.h
+
+C:/Users/thiago/CLionProjects/pilha-poo/pilha.h
+iostream
+-
+deque
+-
+

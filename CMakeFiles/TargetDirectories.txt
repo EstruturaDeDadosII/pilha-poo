@@ -1,0 +1,3 @@
+C:/Users/thiago/CLionProjects/pilha-poo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago/CLionProjects/pilha-poo/cmake-build-debug/CMakeFiles/pilha_poo.dir
+C:/Users/thiago/CLionProjects/pilha-poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
